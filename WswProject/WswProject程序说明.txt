@@ -1,0 +1,3 @@
+在WindshieldWiper的基础上增加了WithBugOne和WithBugTwo两个类。
+可用于代码评审的实验。
+可用于CheckStyle和FindBugs的实验。

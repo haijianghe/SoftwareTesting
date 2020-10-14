@@ -1,0 +1,6 @@
+FlightDebugSample
+
+调试程序。里面人工植入了几处错误代码，让学生通过学习到的调试技能找出错误代码。
+DebugSample是一个简单的程序，学习基本的调试技能。
+FlightDebugSample的代码相对复杂许多。
+详细实验要求，参看实验指导书。

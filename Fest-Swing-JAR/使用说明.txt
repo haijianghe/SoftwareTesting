@@ -1,0 +1,12 @@
+Last Release on Feb 26, 2013 
+FEST Swing 
+Fluent interface for functional GUI testing 
+
+1,从http://mvnrepository.com/artifact/org.easytesting/fest-swing下载
+2，版本搭配有问题，目前的搭配如下：
+    fest-assert-1.4.jar
+    fest-reflect-1.4.1.jar
+    fest-swing-1.2.1.jar
+    fest-util-1.1.6.jar  （搭配2.5就不行）
+3,如果是英文的话，注意关闭汉字的缺省输入。
+   如果输入中文，暂时没有考虑解决方法。
